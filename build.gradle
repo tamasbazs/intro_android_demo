@@ -4,6 +4,7 @@ buildscript {
         maven { url "http://dl.bintray.com/populov/maven" }
         jcenter()
         mavenCentral()
+        google()
         maven { url 'https://maven.fabric.io/public' }
         maven { url 'https://dl.bintray.com/sagix/maven/' }
         maven { url 'https://clojars.org/repo/' }
